@@ -1,0 +1,13 @@
+{
+    "name": "adam1109/demo",
+    "type": "project",
+    "require": {
+        "houdunwang/framework": "*"
+    },
+    "authors": [
+        {
+            "name": "adam1109",
+            "email": "wuxiao19821028@163.com"
+        }
+    ]
+}
